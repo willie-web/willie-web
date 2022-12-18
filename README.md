@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Willie j Williams my https/@willie-web
+- 👋 Hi, I’m Willie j Williams my https/git-hub.com/@willie-web
 - 👀 I’m interested in git-hub
 - 🌱 I’m currently trying to learn how to respository 
 - 💞️ I’m looking to collaborate on your project
